@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>form</title>
+        <link rel="stylesheet" href="style.css">
+        <style>
+            .book-one {
+                padding: 10px;
+            }
+        </style>
+
+    </head>
+
+    <body>
+
+        <form class="book">
+            <fieldset>
+                <legend>package info</legend>
+                <div class="book-one">
+                    <div class="book-box">
+                        package Name
+                        <input type="text" placeholder="enter the package name" id="box-c">
+                    </div>
+                    <div class="book-box">
+                        package price
+                        <input type="number" placeholder="" id="box-c">
+                    </div>
+                    <div class="book-box">
+                        package location
+                        <input type="text" placeholder="" id="box-c">
+
+                    </div>
+            </fieldset>
+            <fieldset>
+                <legend>customer info</legend>
+                <div class="book-one">
+
+                    <div class="book-box">
+                        Full Name
+                        <input type="text" placeholder="enter your name" id="box-c">
+                    </div>
+                    <div class="book-box">
+                        Email
+                        <input type="email" placeholder="enter your mail-address" id="box-c">
+                    </div>
+                    <div class="book-box">
+                        Phone Number
+                        <input type="number" placeholder="enter your number" id="box-c">
+                    </div>
+                </div>
+                <div class="book-two">
+                    <div class="book-box">
+                        Date Of Travel
+                        <br>
+                        <input type="date" id="box-c">
+                    </div>
+                    <div class="book-box">
+                        Number Of People
+                        <input type="number" placeholder="type your no. of person" id="box-c">
+                    </div>
+                    <div class="book-box">
+                        Address(Optional)
+                        <input type="text" placeholder="enter your address" id="box-c"><br>
+                    </div>
+                </div>
+                <div class="require">
+                    <b>Requirements(optional)</b><br>
+                    <textarea placeholder="write a description of your tour so we can design a best package for you!"
+                        id="require" rowspan="25" colspan="50"></textarea>
+            </fieldset>
+            <div class="details">
+                <ul>
+                    <li>We assure the privacy of your contact data.
+                    </li>
+                    <li>This data will only be used by our team to contact you and no other purposes.</li>
+                </ul>
+                <button id="detail-button">send me details</button>
+            </div>
+            </div>
+        </form>
+    </body>
+
+</html>
