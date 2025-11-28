@@ -1,4 +1,4 @@
-# KashmirTourism
+```# KashmirTourism
 
 A comprehensive, responsive tourism website showcasing the beauty, history, cuisine, and culture of Kashmir — with booking functionality and an admin panel.
 
