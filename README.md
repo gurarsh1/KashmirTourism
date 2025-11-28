@@ -115,6 +115,7 @@ KashmirTourism/
 
 ## 📬 Contact
 
-**Pawanpreet Kaur**
-BCA Graduate (result awaited)
-**Email:** [kpawanpreet555@gmail.com](mailto:kpawanpreet555@gmail.com)
+**Guarshdeep Kaur**
+BCA Graduate
+**Email:** arsh1deep83@gmail.com
+
