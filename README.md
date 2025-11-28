@@ -77,7 +77,7 @@ A comprehensive, responsive tourism website showcasing the beauty, history, cuis
 
 ## 🗂️ Project Structure
 
-```
+
 KashmirTourism/
 ├── index.html
 ├── admin.php
@@ -100,7 +100,7 @@ KashmirTourism/
 ├── css/
 ├── js/
 └── kashmir_db.sql
-```
+
 
 ---
 
